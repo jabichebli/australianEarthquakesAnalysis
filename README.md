@@ -25,11 +25,12 @@ This visualization includes multiple data exploration techniques, including:
 ## Specific Data Analysis Techniques  
 In this analysis, various technical data analysis techniques and visualizations were employed to explore earthquake trends and impacts. Below is a list of the specific techniques and charts used:
 
-- **Donut Plot**
-- **Choropleth Plot**
+- **Radial Bar Chart**
+- **Proportional Symbol Map**
+- **Donut Chart**
+- **Choropleth Map**
+- **Population Pyramid**
 - **Bubble Plot**
-- **Radial Bar Plot**
-- **Bubble Map Plot**
 
 ## UI/UX Design  
 <div style="text-align: justify;">The design process followed the 'Five Design Sheet' methodology to ensure effective communication of the data. The 'Five Design Sheet' document can be found [here](https://github.com/jabichebli/australianEarthquakesAnalysis/blob/main/FinalVisualisation/Five%20Design%20Sheets/5-Design-Sheets-Jason-Abi-Chebli.pdf).</div>
