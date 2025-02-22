@@ -4,7 +4,8 @@ Created by **Jason Abi Chebli**
 © 2025 Jason Abi Chebli. All rights reserved.
 
 ## Description  
-This interactive analysis explores seismic activity across Australia from 2008 to 2024, highlighting key trends, regional risks, and the relationship between earthquake magnitude, depth, and resulting damage. By visualizing earthquake data, this project provides valuable insights into Australia's lesser-known seismic activity and the impact of these events on various regions. The analysis aims to inform infrastructure planning, especially in regions near active tectonic boundaries, and offers a deeper understanding of Australia's earthquake risks.
+<div style="text-align: justify;">
+This interactive analysis explores seismic activity across Australia from 2008 to 2024, highlighting key trends, regional risks, and the relationship between earthquake magnitude, depth, and resulting damage. By visualizing earthquake data, this project provides valuable insights into Australia's lesser-known seismic activity and the impact of these events on various regions. The analysis aims to inform infrastructure planning, especially in regions near active tectonic boundaries, and offers a deeper understanding of Australia's earthquake risks.</div>
 
 ## Demo  
 You can explore the interactive visualization [here](https://jabichebli.github.io/australianEarthquakesAnalysis/FinalVisualisation/index.html).
@@ -31,7 +32,7 @@ In this analysis, various technical data analysis techniques and visualizations 
 - **Bubble Map Plot**
 
 ## UI/UX Design  
-The design process followed the 'Five Design Sheet' methodology to ensure effective communication of the data. The 'Five Design Sheet' document can be found [here](https://github.com/jabichebli/australianEarthquakesAnalysis/blob/main/FinalVisualisation/Five%20Design%20Sheets/5-Design-Sheets-Jason-Abi-Chebli.pdf).
+<div style="text-align: justify;">The design process followed the 'Five Design Sheet' methodology to ensure effective communication of the data. The 'Five Design Sheet' document can be found [here](https://github.com/jabichebli/australianEarthquakesAnalysis/blob/main/FinalVisualisation/Five%20Design%20Sheets/5-Design-Sheets-Jason-Abi-Chebli.pdf).</div>
 
 ## Feedback  
-If you have any feedback, suggestions, or questions about the data analysis, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve the analysis.
+<div style="text-align: justify;">If you have any feedback, suggestions, or questions about the data analysis, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve the analysis.</div>
